@@ -10,3 +10,9 @@ pom.xml.asc
 /.nrepl-port
 .hgignore
 .hg/
+.cli-kondo/**
+.cli-kondo/*
+.cli-kondo
+.calva/**
+.calva/*
+.calva
